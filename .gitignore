@@ -1,5 +1,4 @@
-cd ~/midi2mtp
-echo "venv/" > .gitignore
-echo "__pycache__/" >> .gitignore
-echo "*.mid" >> .gitignore
-echo "*.mtp" >> .gitignore
+venv/
+__pycache__/
+*.mid
+*.mtp
