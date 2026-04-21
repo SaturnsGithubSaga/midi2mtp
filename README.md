@@ -1,9 +1,8 @@
-# midi2mtp (12-Track Ready)
+# midi2mtp (8-Track)
 
 A standalone Python module to convert Standard MIDI files into Polyend Tracker `.mtp` patterns.
 
 ## Features
-- **[TODO: 12-Track Support]**
 - Minimalist CLI interface.
 - No FX translation (Focus on raw note data).
 
